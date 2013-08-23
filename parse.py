@@ -59,7 +59,7 @@ def get_day_schedules(page_no=1, row=0):
     row: 0 ~ 6
     
     type: int / string
-    return type: dict [date, schedules title, schedules content]
+    return type: dict [persident_sechudles, vice, g0v]
     """
 
     h = httplib2.Http(".cache")
