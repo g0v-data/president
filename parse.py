@@ -49,11 +49,11 @@ def get_schedules(page_no=1, content_id=1, row=0):
     
     #schedules_content = filter(lambda x: x, r.text_content().strip("\t").split("\r\n"))
     
-    return {'date': date, 'schedules_title': schedules_title, 'schedules_contend': list(schedules_content)}
+    return {'date': date, 'schedules_title': schedules_title, 'schedules_content': list(schedules_content)}
 
 
 def to_json(d):
-    return json.dumps(d, ensure_ascii=False)
+    return json.dumps(d, ensure_ascii=False, sort_keys=True, indent=4)
 
 if __name__ == '__main__':
     result = []
@@ -61,7 +61,10 @@ if __name__ == '__main__':
         print(page)
         for content in range(1, 4):
             for row in range(7):
-                result.append(get_schedules(page, content, row))
+                try:
+                    result.append(get_schedules(page, content, row))
+                except:
+                    pass
         
     f = to_json(result)
-    open("test.json", "w").write(f)
+    open("president.json", "w").write(f)
