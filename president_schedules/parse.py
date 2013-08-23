@@ -9,7 +9,7 @@ from lxml import html
 SCHEDULES_URL = "http://www.president.gov.tw/Default.aspx?tabid=93&PageNo={page_no}"
 SCHEDULES_TITLE = ["", u"總統活動行程", u"副總統活動行程", u"總統府行程"]
 
-def get_schedules(page_no=1, content_id=1, row=0):
+def get_schedules(page_no=1, content_id=1, row=0, cache=True):
     """get president, or vice president, or g0v schedules
     
     page_no: 1 ~ 175
@@ -21,8 +21,12 @@ def get_schedules(page_no=1, content_id=1, row=0):
     """
 
     h = httplib2.Http(".cache")
-    resp, cont = h.request(SCHEDULES_URL.format(page_no=page_no),
-                           headers={'cache-control': 'min-fresh=%s' % -(sys.maxsize >> 1)})
+    if cache:
+        resp, cont = h.request(SCHEDULES_URL.format(page_no=page_no),
+                            headers={'cache-control': 'min-fresh=%s' % -(sys.maxsize >> 1)})
+    else:
+        resp, cont = h.request(SCHEDULES_URL.format(page_no=page_no))
+        
     root = html.fromstring(cont.decode('utf-8'))
     
     row_id = str(row)[-1]
@@ -52,7 +56,7 @@ def get_schedules(page_no=1, content_id=1, row=0):
     return {'date': date, 'schedules_title': schedules_title, 'schedules_content': list(schedules_content)}
 
 
-def get_day_schedules(page_no=1, row=0):
+def get_day_schedules(page_no=1, row=0, cache=True):
     """get president, vice president, g0v schedules
     
     page_no: 1 ~ 175
@@ -63,8 +67,12 @@ def get_day_schedules(page_no=1, row=0):
     """
 
     h = httplib2.Http(".cache")
-    resp, cont = h.request(SCHEDULES_URL.format(page_no=page_no),
-                           headers={'cache-control': 'min-fresh=%s' % -(sys.maxsize >> 1)})
+    if cache:
+        resp, cont = h.request(SCHEDULES_URL.format(page_no=page_no),
+                            headers={'cache-control': 'min-fresh=%s' % -(sys.maxsize >> 1)})
+    else:
+        resp, cont = h.request(SCHEDULES_URL.format(page_no=page_no))
+        
     root = html.fromstring(cont.decode('utf-8'))
     
     row_id = str(row)[-1]
@@ -102,11 +110,26 @@ def get_day_schedules(page_no=1, row=0):
     return total_schedules
 
 
+def update_schedules(json_path, output_path):
+    fi = open(json_path).read()
+    d = json.loads(fi)
+    
+    re_cache = get_schedules(1, 1, 0, False)
+    for i in range(7):
+        date = get_schedules(1, 1, i)['date']
+        d[date] = get_day_schedules(1, i)
+        
+    open(output_path, "w").write(to_json(d))
+            
+
 def to_json(d):
     return json.dumps(d, ensure_ascii=False, sort_keys=True, indent=4)
 
 
 if __name__ == '__main__':
+    update_schedules('president.json', 'president.json')
+    
+    """    
     result = {}
     for page in range(1, 176):
         print(page)
@@ -120,3 +143,5 @@ if __name__ == '__main__':
         
     f = to_json(result)
     open("president_.json", "w").write(f)
+    """
+    
