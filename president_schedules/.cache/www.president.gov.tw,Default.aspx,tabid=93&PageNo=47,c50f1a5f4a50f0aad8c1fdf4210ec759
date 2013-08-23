@@ -1,0 +1,1443 @@
+status: 200
+x-frame-options: SAMEORIGIN
+content-length: 117536
+set-cookie: .ASPXANONYMOUS=tYRlEHvWzgEkAAAAYmYxMjVlZDctYjFiOC00NjUyLWE1MDAtY2MyY2FlODU5MmM40; expires=Thu, 31-Oct-2013 20:52:08 GMT; path=/; HttpOnly, ASP.NET_SessionId=m4dtd155gdmsfq55ne4jwc45; path=/; HttpOnly, language=zh-TW; path=/; HttpOnly
+cache-control: private
+date: Fri, 23 Aug 2013 10:12:08 GMT
+content-type: text/html; charset=utf-8
+content-location: http://www.president.gov.tw/Default.aspx?tabid=93&PageNo=47
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  lang="zh-TW">
+<head id="Head"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta id="MetaDescription" name="DESCRIPTION" content="每日活動行程" /><meta id="MetaKeywords" name="KEYWORDS" content="每日活動行程" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2009 by Office of the President, Republic of China (Taiwan)" /><meta id="MetaAuthor" name="AUTHOR" content="中華民國總統府-首頁" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><link href="icon.png" rel="apple-touch-icon" /><style id="StylePlaceholder" type="text/css"></style><link id="_DesktopModules_Wise_Schedules" rel="stylesheet" type="text/css" href="/DesktopModules/Wise_Schedules/module.css" /><link id="_Portals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="_Portals_0_" rel="stylesheet" type="text/css" href="/Portals/0/portal.css" />
+<script type="text/javascript">
+   if (self === top) {
+       var antiClickjack = document.getElementById("antiClickjack");
+       antiClickjack.parentNode.removeChild(antiClickjack);
+   } else {
+       top.location = self.location;
+   }</script>
+<link rel="SHORTCUT ICON" href="/Portals/0/favicon.ico" /><link type="text/css" rel="stylesheet" title="SmallText" media="screen,print" href="/DesktopModules/WISE.SkinObjects.FontSize/styles/small.css"></link>
+<link type="text/css" rel="stylesheet" title="MediumText" media="screen,print" href="/DesktopModules/WISE.SkinObjects.FontSize/styles/middle.css"></link>
+<link type="text/css" rel="stylesheet" title="LargeText" media="screen,print" href="/DesktopModules/WISE.SkinObjects.FontSize/styles/big.css"></link>
+<link type="text/css" rel="stylesheet" href="/DesktopModules/WISE.SkinObjects.FontSize/styles/css.css"></link>
+<script type="text/javascript" src="/DesktopModules/WISE.SkinObjects.FontSize/JS/founction.js"></script>
+<link href="/DesktopModules/WISE.SkinObjects.Menu/styles/wisemenu.css" type="text/css" rel="stylesheet"></link>
+<link href="/DesktopModules/WISE.SkinObjects.Menu/styles/wisemenu.css" type="text/css" rel="stylesheet"></link>
+<link href="/WebResource.axd?d=ocJi6FER950TA8WmRRlARU0USj6BqhxLViSK86dP_4pUxvBZ5ZOrYp8wXov1PWFP-Z6hm7G2U2zSGI_RXt42p38oOH4e5ZzbdmlTrBdUBkFjit0hRCoEmGk2lCR5xr05Fv_227e0HTCRUxKE0&amp;t=634689769566798000" type="text/css" rel="stylesheet" /><title>
+	每日活動行程
+</title></head>
+<body id="Body">
+    <noscript></noscript>
+    <form name="Form" method="post" action="/Default.aspx?tabid=93&amp;PageNo=47" id="Form" enctype="multipart/form-data" style="height: 100%;" autocomplete="off">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script><script src="/js/PopupCalendar.js"></script>
+<script src="/ScriptResource.axd?d=QPUZV8cC74VaQeF5CgK3B1wrtb9HG88OAPlz-p5T9H_PGPjeK9qHcoSahdNcS2jRUlptVo1GVzqD1JLyAirojmUpFP2GigDFrqBPN7SPFYGDYPf6iFeVvsfmFzo1&amp;t=634689769568358000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zrPN45OBLWdil11-XEaYM0SYrlrj6busiCFY3pJ8r-rVX4MuJ4MUyXZOsP84UTEx85IxuziwjCOBqZTwPddqEHUYMxfCJjxn80N9UpQn1cmAEqupOZwMavMXhk7eOUU-4QbxdO1xU7uwRCeG0&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uIpMekwpa4SVVDiMuDZu042vnKPzC3zBYfD59FI8LUjThbzBlujy38OsSAvZNLIGpsCZs-549yEcibfRWf6ZDjVzfDC8OXgQLjD1WdOS4fCHPFIyrpbi6PKM5Ibs1IZCww1EMSfbr__LNHMz0&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=e4eOh0oVRSTwBVTAdl5ESqrXvGSCG69ODKKNlVyEpDFJyRB_L-7Eud74xOeKVyFhFeixYOj5YQXLzsnHa0EnCOyCZ7QcyZnN1dsvYaGSFQ3vW2v52KUKGKH15Q2MXpUBHLUBlOJyhIRTpx9o0&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=95UuWdHMJKKXgzE4aBDdd4W5fwIeG-HIyiPSpoCHakXjFv7XRPt2lnUufADxoY96r5xTNS1SgC50AbfGdnqY3hpmUQ0wf_y5m0JEb_AQ9HBMeMvskTngjPJdon0O_5D4xjuN9bZpW45EEpTd0&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HzbWt6zGbLiPVXzA2sg4_iCNBnTc2IVnTO7jxYTiABZFzjQvz5xOxIX23hp1r_zvaC42vBjhvRWDrT4MNAUws6ev4DL-zKn-qc8aSLqjG6xqA5PbvuZ4W-njU8ExaEurUWBcZOkNlDsWHE83i3VWlb8Ck_U1&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wuhBxGxFLjLQiKaCj7vH6QLwz7iTPQpzYAWRS3FDN0bYuDp4orcZKZZ8joHVHkwlQi1EWMcO0JO1hQHa6D-mKUUfKdyBP0xQUqHFuxOvPoAsPJ8wpIABlZ6gw10IG6SSDuWAk2GalUKIYDA9OhAJGEV1YGg1&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vWVHoCOysUDIfDfQt9JQaGmpA1WGUBthHX5uffyiYW4phmlFCCi3zke3kFLYdbxvGIhbHY4AUqlr5aawMCXEc4SDif-OFiOq5lJBr0VN8qQOcYjzh0t5DBCR7tUN0-DzcN4vSg60-etivBiBAA8kho9sPPg1&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zw2kvlVNyqRQWqu1cA2dblDjWmsXmRzK4LXtXcn2co5AmD7cquZ3NtfakXEQF6r103LuDcPdkZF6sv2iLdQAYS-0HN7ws092boCBoBx2bBSgYIRmbkoyU5xrTg3a2ydg1IE5AwMhIFWFBego0&amp;t=634689769566798000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=d5SqpDMVwfA3tcm1IyiV1ZXBuvSrQLDLq0kQbJ_uZDcQrr1eVswGfnNAIzC1tD5KH-qXPRyzwkcrIU2dr1xRojD-Ltp-CCpIRbGiNaSmEBgpD1A2ESy6buuI_5AObxAYo_hh2dHF7psFzcibjcaiwH8FgFQ1&amp;t=634689769566798000" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+        
+        
+
+<link type="text/css" rel="stylesheet" href="/portals/0/css/leftmenu/news02.css" />
+<div class="wrap">
+
+<table  summary="排版表格" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="header" height="32" align="center" ><table width="100%" border="0" cellpadding="0" cellspacing="0"  summary="排版表格">
+      <tr>
+        <td><table width="1003" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="603"><a href="http://www.president.gov.tw/"><img src="/Portals/0/Skins/newskin/bg_top_01.png" alt="中華民國總統府網站" width="603" height="93" border="0" /></a></td>
+            <td valign="bottom" background="/Portals/0/Skins/newskin/bg_top_02.png"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="bottom"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="37" class="">&nbsp;</td>
+                      <td width="180" align="right" class="topfontpage" style="text-align:right"></td>
+                      <td align="right" class="">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="160" align="right" class=""><span class="topfontpage"><a title="上方主選單連結區" accesskey="U" href="Default.aspx?tabid=1131" >:::</a></span></td>
+                      <td width="220" align="right" class="topfontpage"><?xml version="1.0" encoding="utf-8"?><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="right"><a href="/Default.aspx?tabid=226" target="_parent" title="網站導覽">網站導覽<span>‧</span></a><a href="http://english.president.gov.tw/" target="_blank" title="English[open window]">English<span>‧</span></a><a href="http://kids.president.gov.tw/" target="_blank" title="兒童版[另開新視窗]">兒童版<span>‧</span></a><a href="http://mobile.president.gov.tw/" target="_blank" title="手機版[另開新視窗]">手機版<span></span></a></td><td align="right"> <a href="Default.aspx?tabid=1023" title="RSS"><img src="images/RSS.gif" width="16" height="16" alt="RSS" border="0" /></a></td></tr></table>
+</td>
+                      <td width="25" align="right" class="">&nbsp;</td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="right" class="font-sizepage" style="position:relative"><noscript><div class="top-size">本script語法是用來變更瀏覽的字級大小，若您的瀏覽器無法支援，請點選「檢視」－「字型」，選擇您最適合的網頁字型大小。</div></noscript><a>字級</a>
+<script language="JavaScript" type="text/javascript">
+<!--
+	setActiveStyleSheet(getCookie('SmallText'),0);//fontline('wstyle');
+	var currentFont ="dnn_dnnWISEFONTSIZE_Small";
+	function showFont(Layer){ 
+		if (currentFont!=Layer.id) {
+		showIts(currentFont,false); 
+		currentFont = Layer.id; 
+		showIts(currentFont,true); 
+		}
+	} 
+    
+    function showIts(o,mode){ 
+		var obj = document.getElementById(o);
+		obj.className = mode?"click":"unclick";
+	} 
+//-->
+</script>|<span class="font_small"><a href="javascript:void(0)" id="dnn_dnnWISEFONTSIZE_Small" class="click" onclick="setActiveStyleSheet('SmallText', 1);showFont(this);" onkeypress="setActiveStyleSheet('SmallText', 1);showFont(this);">小</a></span>|<span class="font_middle"><a href="javascript:void(0)" id="dnn_dnnWISEFONTSIZE_Medium" class="unclick" onclick="setActiveStyleSheet('MediumText', 1);showFont(this);" onkeypress="setActiveStyleSheet('MediumText', 1);showFont(this);">中</a></span>|<span class="font_large"><a href="javascript:void(0)" id="dnn_dnnWISEFONTSIZE_Large" class="unclick" onclick="setActiveStyleSheet('LargeText', 1);showFont(this);" onkeypress="setActiveStyleSheet('LargeText', 1);showFont(this);">大</a></span>
+
+
+</td>
+                      <td width="150" align="right" ><iframe id="dnn_dnnWISEIFRAME_wiseiframe" title="搜尋頁框" allowtransparency="False" src="inputform.html" width="193" height="25" frameborder="no" scrolling="no">您的瀏覽器不支持內嵌框架</iframe>
+</td>
+                      <td width="16" >&nbsp;</td>
+                    </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#013565" style="position:relative;z-index:9999;"><noscript><div class="left-tab">TAB移動，如不使用仍不影響您瀏覽資料</div></noscript><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="/Portals/0/Skins/newskin/bg_topleft.png" alt="*" width="84" height="34" /></td>
+            <td width="100%">
+
+<script language="JavaScript" type="text/javascript">
+    function startList() {
+        var version = parseFloat(navigator.appVersion.split("MSIE")[1]);
+        //var IE6 = false/*@cc_on || @_jscript_version < 5.7@*/;
+        var Mode = document.documentMode; // check IE8 Quirks 
+        //alert(document.documentMode);
+        if (version < 7 || Mode < 7) {
+            // IE6
+            suckerfish(placeOnTop, "ul", "wisemenu_h");
+        }
+
+        if (navigator.appName == "Microsoft Internet Explorer") {
+            // IE
+            suckerfish(hover_ie, "li", "wisemenu_h");
+        }
+        else {
+            // FF
+            suckerfish(hover_ff, "li", "wisemenu_h");
+        }
+
+        var obj = document.getElementById("wisemenu_v");
+        if (obj != null) {
+            suckerfish(focus_left, "a", "wisemenu_v");
+            if (navigator.appName == "Microsoft Internet Explorer") {
+                suckerfish(hover_ie, "li", "wisemenu_v");
+            }
+            else {
+                suckerfish(hover_ff, "li", "wisemenu_v");
+            }
+        }
+
+        if (! +[1, ]) {
+            // IE6 Background Imag Cache
+            document.execCommand("BackgroundImageCache", false, true);
+        }
+
+    }
+
+    function suckerfish(type, tag, parentId) {
+        var sfEls = (parentId == null) ? document.getElementsByTagName(tag) : document.getElementById(parentId).getElementsByTagName(tag);
+        type(sfEls);
+    }
+
+    function hover_ie(sfEls) {
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onmouseover = function() {
+                focus_hover(this);
+            }
+            sfEls[i].onmouseout = function() {
+                blur_hover(this);
+            }
+            sfEls[i].onfocusin = function() {
+                focus_hover(this);
+            }
+            sfEls[i].onfocusout = function() {
+                blur_hover(this);
+            }
+        }
+    }
+
+    function hover_ff(sfEls) {
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onkeyup = function() {
+                onkeydownUL(this);
+            }
+            sfEls[i].onkeypress = function() {
+                onkeyupUL(this);
+            }
+        }
+    }
+
+    function focus_hover(sfEls) {
+        sfEls.className = "over";
+        // IE6 iframe 
+        var oIFR = document.getElementById('ifr' + sfEls.id.replace("Item", "List").replace("CurrentParent", "List").replace("CurrentItem", "List").replace("Current", "List"));
+        if (oIFR != null) { oIFR.style.display = "block"; }
+    }
+
+    function blur_hover(sfEls) {
+        sfEls.className = sfEls.className.replace("over", "");
+        // IE6 iframe 
+        var oIFR = document.getElementById('ifr' + sfEls.id.replace("Item", "List").replace("CurrentParent", "List").replace("CurrentItem", "List").replace("Current", "List"));
+        if (oIFR != null) { oIFR.style.display = "none"; }
+    }
+
+    function setclass(sfEls,css) {
+        sfEls.className = css;
+    }
+
+    function onkeydownUL(sfEls) {
+        // previous li set classname = ""
+        if (sfEls.previousSibling.previousSibling != null) {
+            setclass(sfEls.previousSibling.previousSibling,"");
+        }
+        // current li set classname = "over"
+        setclass(sfEls, "over"); 
+    }
+
+    function onkeyupUL(sfEls) {
+        var _get = false;
+        // last li set classname = ""
+        if (sfEls.nextSibling.nextSibling == null) {
+            for (i = 0; i < sfEls.childNodes.length; i++) {
+                node = sfEls.childNodes[i];
+                if (node.nodeName == "UL") {
+                    _get = true;
+                }
+            }
+            if (!_get) {
+                setclass(sfEls, "");
+                setclass(sfEls.parentNode.parentNode, "");
+                var obj = sfEls.parentNode.parentNode.parentNode.parentNode;
+                if (obj.nodeName =="LI" && obj.nextSibling.nextSibling == null) {
+                    setclass(obj, "");  
+                } 
+            }
+        }
+    }
+    
+    function focus_left(sfEls) {
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onfocus = function() {
+                this.className += " left_hover";
+            }
+            sfEls[i].onblur = function() {
+                this.className = this.className.replace(" left_hover", "");
+            }
+        }
+    }
+
+    function placeOnTop(oCont) {
+        for (var i = 0; i < oCont.length; i++) {
+            var oIFR = document.getElementById('ifr' + oCont[i].id);
+            if (oIFR == null) {
+                var oIFR = document.createElement('iframe');
+                oIFR.id = 'ifr' + oCont[i].id;
+                oIFR.style.top = '0px';
+                oIFR.style.left = '0px';
+                oIFR.style.filter = "progid:DXImageTransform.Microsoft.Alpha(opacity=0)";
+                oIFR.scrolling = 'no';
+                oIFR.frameBorder = 'no';
+                oIFR.style.display = 'none';
+                oIFR.style.position = 'absolute';
+                oCont[i].parentNode.appendChild(oIFR);
+            }
+
+            oIFR.style.width = oCont[i].offsetWidth;
+            oIFR.style.height = oCont[i].offsetHeight;
+            oIFR.style.top = oCont[i].offsetTop + 'px';
+            oIFR.style.left = oCont[i].offsetLeft + 'px';
+            oIFR.style.zIndex = -1;
+
+        }
+    }
+
+    window.onload = function() {
+        startList();
+    }
+
+</script>
+
+<div id="wisemenu_h" class="jqueryslidemenu">
+<ul id="WiseMenuNav">
+<li id="WiseMenuNavItem1127"><div class="Ulink1127"><a id="WiseMenuNavLink1127" href="/Default.aspx?tabid=1127" title="中華民國總統府網站-首頁" >中華民國總統府網站-首頁</a></div></li>
+<li id="WiseMenuNavCurrentParent60"><div class="Ulink60"><a id="WiseMenuNavParentLink60" href="/Default.aspx?tabid=60" >新聞與活動</a></div>
+
+<ul id="WiseMenuNavList60">
+<li id="WiseMenuNavItem131"><div class="Ulink131"><a id="WiseMenuNavLink131" href="/Default.aspx?tabid=131" >新聞稿</a></div></li>
+<li id="WiseMenuNavCurrentItem93"><div class="Ulink93"><a id="WiseMenuNavCurrentLink93" href="/Default.aspx?tabid=93" >每日活動行程</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem132"><div class="Ulink132"><a id="WiseMenuNavLink132" href="http://media.president.gov.tw/MediaTotalView.aspx" title="影音頻道[另開新視窗]"target="_blank">影音頻道</a></div></li>
+<li id="WiseMenuNavItem133"><div class="Ulink133"><a id="WiseMenuNavLink133" href="http://media.president.gov.tw/ImageTotalView.aspx" title="網路相簿[另開新視窗]"target="_blank">網路相簿</a></div></li>
+<li id="WiseMenuNavItem1027"><div class="Ulink1027"><a id="WiseMenuNavLink1027" href="/Default.aspx?tabid=1027" >總統府看板</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem106"><div class="Ulink106"><a id="WiseMenuNavLink106" href="/Default.aspx?tabid=134" >重要活動</a></div>
+
+<ul id="WiseMenuNavList106">
+<li id="WiseMenuNavItem134"><div class="Ulink134"><a id="WiseMenuNavLink134" href="/Default.aspx?tabid=134" >國賓訪華軍禮歡迎</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem144"><div class="Ulink144"><a id="WiseMenuNavLink144" href="/Default.aspx?tabid=144" >國宴</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem145"><div class="Ulink145"><a id="WiseMenuNavLink145" href="/Default.aspx?tabid=145" >大使呈遞到任國書</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem146"><div class="Ulink146"><a id="WiseMenuNavLink146" href="/Default.aspx?tabid=146" >總統府月會</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem85"><div class="Ulink85"><a id="WiseMenuNavLink85" href="/Default.aspx?tabid=85" >授勳典禮</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem147"><div class="Ulink147"><a id="WiseMenuNavLink147" href="/Default.aspx?tabid=147" >春秋祭典</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem149"><div class="Ulink149"><a id="WiseMenuNavLink149" href="/Default.aspx?tabid=149" >總統府音樂會</a></div>
+
+
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem158"><div class="Ulink158"><a id="WiseMenuNavLink158" href="/Default.aspx?tabid=1186" >特別專輯</a></div>
+
+<ul id="WiseMenuNavList158">
+<li id="WiseMenuNavItem159"><div class="Ulink159"><a id="WiseMenuNavLink159" href="/Default.aspx?tabid=1186" >出訪專輯</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem162"><div class="Ulink162"><a id="WiseMenuNavLink162" href="/Default.aspx?tabid=162" >其他專輯</a></div>
+
+
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem97"><div class="Ulink97"><a id="WiseMenuNavLink97" href="/Default.aspx?tabid=97" >服務與參觀</a></div>
+
+<ul id="WiseMenuNavList97">
+<li id="WiseMenuNavItem168"><div class="Ulink168"><a id="WiseMenuNavLink168" href="/Default.aspx?tabid=169" >便民服務</a></div>
+
+<ul id="WiseMenuNavList168">
+<li id="WiseMenuNavItem169"><div class="Ulink169"><a id="WiseMenuNavLink169" href="/Default.aspx?tabid=169" >問與答</a></div></li>
+<li id="WiseMenuNavItem171"><div class="Ulink171"><a id="WiseMenuNavLink171" href="/Default.aspx?tabid=171" >檔案下載</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem172"><div class="Ulink172"><a id="WiseMenuNavLink172" href="/Default.aspx?tabid=173" >參觀資訊</a></div>
+
+<ul id="WiseMenuNavList172">
+<li id="WiseMenuNavItem173"><div class="Ulink173"><a id="WiseMenuNavLink173" href="/Default.aspx?tabid=173" >參觀時間</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem174"><div class="Ulink174"><a id="WiseMenuNavLink174" href="/Default.aspx?tabid=174" >參觀須知</a></div></li>
+<li id="WiseMenuNavItem176"><div class="Ulink176"><a id="WiseMenuNavLink176" href="/Default.aspx?tabid=176" >參觀預約</a></div></li>
+<li id="WiseMenuNavItem177"><div class="Ulink177"><a id="WiseMenuNavLink177" href="/Default.aspx?tabid=177" >交通路線</a></div></li>
+<li id="WiseMenuNavItem1193"><div class="Ulink1193"><a id="WiseMenuNavLink1193" href="#"  onkeypress="javascript:window.open('http://media.president.gov.tw/vr/index.html','newwindow','height=520, width=990, top=0, left=0, toolbar=no, menubar=no, scrollbars=yes, resizable=no,location=no, status=no');" onclick="javascript:window.open('http://media.president.gov.tw/vr/index.html','newwindow','height=520, width=990, top=0, left=0, toolbar=no, menubar=no, scrollbars=yes, resizable=no,location=no, status=no');" title="虛擬導覽[另開新視窗]" >虛擬導覽</a></div></li>
+<li id="WiseMenuNavItem1277"><div class="Ulink1277"><a id="WiseMenuNavLink1277" href="/Default.aspx?tabid=1202" >建築風華</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem218"><div class="Ulink218"><a id="WiseMenuNavLink218" href="/Default.aspx?tabid=218" >相關網站</a></div></li>
+<li id="WiseMenuNavItem219"><div class="Ulink219"><a id="WiseMenuNavLink219" href="/Default.aspx?tabid=219" >雙語詞彙</a></div></li>
+<li id="WiseMenuNavItem220"><div class="Ulink220"><a id="WiseMenuNavLink220" href="/Default.aspx?tabid=1271" >關於本站</a></div>
+
+<ul id="WiseMenuNavList220">
+<li id="WiseMenuNavItem1271"><div class="Ulink1271"><a id="WiseMenuNavLink1271" href="/Default.aspx?tabid=1271" >著作權聲明</a></div></li>
+<li id="WiseMenuNavItem1130"><div class="Ulink1130"><a id="WiseMenuNavLink1130" href="/Default.aspx?tabid=1130" >隱私權及資訊安全政策</a></div></li>
+<li id="WiseMenuNavItem1131"><div class="Ulink1131"><a id="WiseMenuNavLink1131" href="/Default.aspx?tabid=1131" >無障礙聲明</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem226"><div class="Ulink226"><a id="WiseMenuNavLink226" href="/Default.aspx?tabid=226" >網站導覽</a></div></li>
+<li id="WiseMenuNavItem1023"><div class="Ulink1023"><a id="WiseMenuNavLink1023" href="/Default.aspx?tabid=1023" >RSS頻道服務</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem61"><div class="Ulink61"><a id="WiseMenuNavLink61" href="/Default.aspx?tabid=61" >公報與法令</a></div>
+
+<ul id="WiseMenuNavList61">
+<li id="WiseMenuNavItem163"><div class="Ulink163"><a id="WiseMenuNavLink163" href="/Default.aspx?tabid=164" >總統府公報</a></div>
+
+<ul id="WiseMenuNavList163">
+<li id="WiseMenuNavItem164"><div class="Ulink164"><a id="WiseMenuNavLink164" href="/Default.aspx?tabid=164" >使用說明</a></div></li>
+<li id="WiseMenuNavItem84"><div class="Ulink84"><a id="WiseMenuNavLink84" href="/Default.aspx?tabid=84" >公報查詢</a></div></li>
+<li id="WiseMenuNavItem165"><div class="Ulink165"><a id="WiseMenuNavLink165" href="/Default.aspx?tabid=165" >法律公布預告</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem82"><div class="Ulink82"><a id="WiseMenuNavLink82" href="/Default.aspx?tabid=82" >法令查詢</a></div></li>
+<li id="WiseMenuNavItem166"><div class="Ulink166"><a id="WiseMenuNavLink166" href="/Default.aspx?tabid=1191" >政府資訊公開</a></div>
+
+<ul id="WiseMenuNavList166">
+<li id="WiseMenuNavItem1191"><div class="Ulink1191"><a id="WiseMenuNavLink1191" href="/Default.aspx?tabid=1191" >一般資訊</a></div></li>
+<li id="WiseMenuNavItem1192"><div class="Ulink1192"><a id="WiseMenuNavLink1192" href="/Default.aspx?tabid=1192" >行政資訊</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem167"><div class="Ulink167"><a id="WiseMenuNavLink167" href="/Default.aspx?tabid=167" >陽光法案</a></div>
+
+
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem59"><div class="Ulink59"><a id="WiseMenuNavLink59" href="/Default.aspx?tabid=59" >總統與總統府</a></div>
+
+<ul id="WiseMenuNavList59">
+<li id="WiseMenuNavItem94"><div class="Ulink94"><a id="WiseMenuNavLink94" href="/Default.aspx?tabid=95" >馬英九總統</a></div>
+
+<ul id="WiseMenuNavList94">
+<li id="WiseMenuNavItem95"><div class="Ulink95"><a id="WiseMenuNavLink95" href="/Default.aspx?tabid=95" >傳略</a></div></li>
+<li id="WiseMenuNavItem96"><div class="Ulink96"><a id="WiseMenuNavLink96" href="/Default.aspx?tabid=96" >大事年表</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem107"><div class="Ulink107"><a id="WiseMenuNavLink107" href="/Default.aspx?tabid=107" >特寫</a></div></li>
+<li id="WiseMenuNavItem1056"><div class="Ulink1056"><a id="WiseMenuNavLink1056" href="/Default.aspx?tabid=1070" >執政報告</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem240"><div class="Ulink240"><a id="WiseMenuNavLink240" href="/Default.aspx?tabid=240" >總統札記</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem109"><div class="Ulink109"><a id="WiseMenuNavLink109" href="/Default.aspx?tabid=1453" >言論選集</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem1457"><div class="Ulink1457"><a id="WiseMenuNavLink1457" href="/Default.aspx?tabid=1186" >出訪專輯 </a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem1400"><div class="Ulink1400"><a id="WiseMenuNavLink1400" href="/Default.aspx?tabid=1401" >吳敦義副總統</a></div>
+
+<ul id="WiseMenuNavList1400">
+<li id="WiseMenuNavItem1401"><div class="Ulink1401"><a id="WiseMenuNavLink1401" href="/Default.aspx?tabid=1401" >傳略</a></div></li>
+<li id="WiseMenuNavItem1402"><div class="Ulink1402"><a id="WiseMenuNavLink1402" href="/Default.aspx?tabid=1402" >大事年表</a></div></li>
+<li id="WiseMenuNavItem1403"><div class="Ulink1403"><a id="WiseMenuNavLink1403" href="/Default.aspx?tabid=1403" >特寫</a></div></li>
+<li id="WiseMenuNavItem1405"><div class="Ulink1405"><a id="WiseMenuNavLink1405" href="/Default.aspx?tabid=1412" > 總統府人權諮詢委員會</a></div>
+
+
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem99"><div class="Ulink99"><a id="WiseMenuNavLink99" href="/Default.aspx?tabid=101" >總統府組織</a></div>
+
+<ul id="WiseMenuNavList99">
+<li id="WiseMenuNavItem101"><div class="Ulink101"><a id="WiseMenuNavLink101" href="/Default.aspx?tabid=101" >組織系統圖</a></div></li>
+<li id="WiseMenuNavItem100"><div class="Ulink100"><a id="WiseMenuNavLink100" href="/Default.aspx?tabid=103" >機關首長</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem102"><div class="Ulink102"><a id="WiseMenuNavLink102" href="/Default.aspx?tabid=140" >資政、國策顧問、戰略顧問</a></div>
+
+
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem233"><div class="Ulink233"><a id="WiseMenuNavLink233" href="/Default.aspx?tabid=234" >總統府之美</a></div>
+
+<ul id="WiseMenuNavList233">
+<li id="WiseMenuNavItem234"><div class="Ulink234"><a id="WiseMenuNavLink234" href="/Default.aspx?tabid=1202" >建築風華</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem235"><div class="Ulink235"><a id="WiseMenuNavLink235" href="#"  onkeypress="javascript:window.open('http://media.president.gov.tw/vr/index.html','newwindow','height=520, width=990, top=0, left=0, toolbar=no, menubar=no, scrollbars=yes, resizable=no,location=no, status=no');" onclick="javascript:window.open('http://media.president.gov.tw/vr/index.html','newwindow','height=520, width=990, top=0, left=0, toolbar=no, menubar=no, scrollbars=yes, resizable=no,location=no, status=no');" title="虛擬導覽[另開新視窗]" >虛擬導覽</a></div></li>
+<li id="WiseMenuNavItem203"><div class="Ulink203"><a id="WiseMenuNavLink203" href="/Default.aspx?tabid=202" >總統府藝廊</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem205"><div class="Ulink205"><a id="WiseMenuNavLink205" href="/Default.aspx?tabid=205" >電子賀卡</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem57"><div class="Ulink57"><a id="WiseMenuNavLink57" href="/Default.aspx?tabid=57" >中華民國簡介</a></div>
+
+<ul id="WiseMenuNavList57">
+<li id="WiseMenuNavItem1067"><div class="Ulink1067"><a id="WiseMenuNavLink1067" href="/Default.aspx?tabid=58" >中華民國憲法</a></div>
+
+<ul id="WiseMenuNavList1067">
+<li id="WiseMenuNavItem58"><div class="Ulink58"><a id="WiseMenuNavLink58" href="/Default.aspx?tabid=58" >憲法簡介</a></div></li>
+<li id="WiseMenuNavItem64"><div class="Ulink64"><a id="WiseMenuNavLink64" href="/Default.aspx?tabid=64" >中華民國憲法本文</a></div></li>
+<li id="WiseMenuNavItem65"><div class="Ulink65"><a id="WiseMenuNavLink65" href="/Default.aspx?tabid=65" >中華民國憲法增修條文</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem66"><div class="Ulink66"><a id="WiseMenuNavLink66" href="/Default.aspx?tabid=1064" >國父暨行憲後歷任總統</a></div>
+
+<ul id="WiseMenuNavList66">
+<li id="WiseMenuNavItem1064"><div class="Ulink1064"><a id="WiseMenuNavLink1064" href="/Default.aspx?tabid=1064" >國父孫中山先生</a></div></li>
+<li id="WiseMenuNavItem229"><div class="Ulink229"><a id="WiseMenuNavLink229" href="/Default.aspx?tabid=71" >行憲後歷任總統</a></div>
+
+
+</li>
+<li id="WiseMenuNavItem230"><div class="Ulink230"><a id="WiseMenuNavLink230" href="/Default.aspx?tabid=230" >行憲後歷任副總統</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem242"><div class="Ulink242"><a id="WiseMenuNavLink242" href="#"  onkeypress="javascript:window.open('http://www.ey.gov.tw/state/');" onclick="javascript:window.open('http://www.ey.gov.tw/state/');" title="國情簡介[另開新視窗]" >國情簡介</a></div></li>
+<li id="WiseMenuNavItem67"><div class="Ulink67"><a id="WiseMenuNavLink67" href="/Default.aspx?tabid=1031" >國旗  國歌  國花  國璽</a></div>
+
+<ul id="WiseMenuNavList67">
+<li id="WiseMenuNavItem1031"><div class="Ulink1031"><a id="WiseMenuNavLink1031" href="/Default.aspx?tabid=1031" >國旗</a></div></li>
+<li id="WiseMenuNavItem77"><div class="Ulink77"><a id="WiseMenuNavLink77" href="/Default.aspx?tabid=77" >國歌</a></div></li>
+<li id="WiseMenuNavItem1029"><div class="Ulink1029"><a id="WiseMenuNavLink1029" href="/Default.aspx?tabid=1029" >國花</a></div></li>
+<li id="WiseMenuNavItem79"><div class="Ulink79"><a id="WiseMenuNavLink79" href="/Default.aspx?tabid=79" >國璽</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem68"><div class="Ulink68"><a id="WiseMenuNavLink68" href="/Default.aspx?tabid=1065" >中華民國勳章</a></div>
+
+<ul id="WiseMenuNavList68">
+<li id="WiseMenuNavItem1065"><div class="Ulink1065"><a id="WiseMenuNavLink1065" href="/Default.aspx?tabid=1065" >勳章簡介</a></div></li>
+<li id="WiseMenuNavItem80"><div class="Ulink80"><a id="WiseMenuNavLink80" href="/Default.aspx?tabid=80" >文職勳章</a></div></li>
+<li id="WiseMenuNavItem81"><div class="Ulink81"><a id="WiseMenuNavLink81" href="/Default.aspx?tabid=81" >軍職勳章</a></div></li>
+<li id="WiseMenuNavItem231"><div class="Ulink231"><a id="WiseMenuNavLink231" href="/Default.aspx?tabid=231" >總統贈勳</a></div></li>
+<li id="WiseMenuNavItem87"><div class="Ulink87"><a id="WiseMenuNavLink87" href="/Default.aspx?tabid=87" >友邦贈勳</a></div></li>
+</ul>
+</li>
+<li id="WiseMenuNavItem69"><div class="Ulink69"><a id="WiseMenuNavLink69" href="/Default.aspx?tabid=104" >政府組織</a></div>
+
+<ul id="WiseMenuNavList69">
+<li id="WiseMenuNavItem104"><div class="Ulink104"><a id="WiseMenuNavLink104" href="/Default.aspx?tabid=104" >中央政府</a></div></li>
+<li id="WiseMenuNavItem105"><div class="Ulink105"><a id="WiseMenuNavLink105" href="/Default.aspx?tabid=105" >地方政府</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="WiseMenuNavItem63"><div class="Ulink63"><a id="WiseMenuNavLink63" href="/Default.aspx?tabid=63" >論壇與信箱</a></div>
+
+<ul id="WiseMenuNavList63">
+<li id="WiseMenuNavItem1220"><div class="Ulink1220"><a id="WiseMenuNavLink1220" href="/Default.aspx?tabid=1220" >國是論壇</a></div></li>
+<li id="WiseMenuNavItem222"><div class="Ulink222"><a id="WiseMenuNavLink222" href="/Default.aspx?tabid=222" >民意信箱</a></div>
+
+<ul id="WiseMenuNavList222">
+<li id="WiseMenuNavItem1198"><div class="Ulink1198"><a id="WiseMenuNavLink1198" href="http://www.president.gov.tw/Default.aspx?tabid=222&Step=Write" title="開始寫信">開始寫信</a></div></li>
+<li id="WiseMenuNavItem1199"><div class="Ulink1199"><a id="WiseMenuNavLink1199" href="http://www.president.gov.tw/Default.aspx?tabid=222&Step=Lookup" title="信件查詢">信件查詢</a></div></li>
+<li id="WiseMenuNavItem1200"><div class="Ulink1200"><a id="WiseMenuNavLink1200" href="http://www.president.gov.tw/Default.aspx?tabid=169" title="問與答">問與答</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+            <td><img src="/Portals/0/Skins/newskin/bg_topright.png" alt="*" width="73" height="34" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor=""><img src="/Portals/0/Skins/newskin/bg_line.png" alt="*" width="1003" height="19" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr >
+    <td align="center"  valign="top"    ><table summary="排版表格"  width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr >
+        <td  rowspan="3" valign="top" background="/Portals/0/Skins/newskin/bg_left_line.jpg"   class="left" scope="col"><a title="左方相關連結區" class="blockone" accesskey="L" href="Default.aspx?tabid=1131" >:::</a><table summary="左側資料表格"  width="194" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td ><img class="left-banner" src="/Portals/0/Skins/newskin/leftmenutop03.png" width="194" height="72" alt="新聞與活動" /></td>
+            </tr>
+          <tr>
+            <td align="right"><table summary="左側選單"  border="0"  cellpadding="0" cellspacing="0" class="wisemenu">
+              <tr>
+                <td valign="top">
+
+<script language="JavaScript" type="text/javascript">
+    function startList() {
+        var version = parseFloat(navigator.appVersion.split("MSIE")[1]);
+        //var IE6 = false/*@cc_on || @_jscript_version < 5.7@*/;
+        var Mode = document.documentMode; // check IE8 Quirks 
+        //alert(document.documentMode);
+        if (version < 7 || Mode < 7) {
+            // IE6
+            suckerfish(placeOnTop, "ul", "wisemenu_h");
+        }
+
+        if (navigator.appName == "Microsoft Internet Explorer") {
+            // IE
+            suckerfish(hover_ie, "li", "wisemenu_h");
+        }
+        else {
+            // FF
+            suckerfish(hover_ff, "li", "wisemenu_h");
+        }
+
+        var obj = document.getElementById("wisemenu_v");
+        if (obj != null) {
+            suckerfish(focus_left, "a", "wisemenu_v");
+            if (navigator.appName == "Microsoft Internet Explorer") {
+                suckerfish(hover_ie, "li", "wisemenu_v");
+            }
+            else {
+                suckerfish(hover_ff, "li", "wisemenu_v");
+            }
+        }
+
+        if (! +[1, ]) {
+            // IE6 Background Imag Cache
+            document.execCommand("BackgroundImageCache", false, true);
+        }
+
+    }
+
+    function suckerfish(type, tag, parentId) {
+        var sfEls = (parentId == null) ? document.getElementsByTagName(tag) : document.getElementById(parentId).getElementsByTagName(tag);
+        type(sfEls);
+    }
+
+    function hover_ie(sfEls) {
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onmouseover = function() {
+                focus_hover(this);
+            }
+            sfEls[i].onmouseout = function() {
+                blur_hover(this);
+            }
+            sfEls[i].onfocusin = function() {
+                focus_hover(this);
+            }
+            sfEls[i].onfocusout = function() {
+                blur_hover(this);
+            }
+        }
+    }
+
+    function hover_ff(sfEls) {
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onkeyup = function() {
+                onkeydownUL(this);
+            }
+            sfEls[i].onkeypress = function() {
+                onkeyupUL(this);
+            }
+        }
+    }
+
+    function focus_hover(sfEls) {
+        sfEls.className = "over";
+        // IE6 iframe 
+        var oIFR = document.getElementById('ifr' + sfEls.id.replace("Item", "List").replace("CurrentParent", "List").replace("CurrentItem", "List").replace("Current", "List"));
+        if (oIFR != null) { oIFR.style.display = "block"; }
+    }
+
+    function blur_hover(sfEls) {
+        sfEls.className = sfEls.className.replace("over", "");
+        // IE6 iframe 
+        var oIFR = document.getElementById('ifr' + sfEls.id.replace("Item", "List").replace("CurrentParent", "List").replace("CurrentItem", "List").replace("Current", "List"));
+        if (oIFR != null) { oIFR.style.display = "none"; }
+    }
+
+    function setclass(sfEls,css) {
+        sfEls.className = css;
+    }
+
+    function onkeydownUL(sfEls) {
+        // previous li set classname = ""
+        if (sfEls.previousSibling.previousSibling != null) {
+            setclass(sfEls.previousSibling.previousSibling,"");
+        }
+        // current li set classname = "over"
+        setclass(sfEls, "over"); 
+    }
+
+    function onkeyupUL(sfEls) {
+        var _get = false;
+        // last li set classname = ""
+        if (sfEls.nextSibling.nextSibling == null) {
+            for (i = 0; i < sfEls.childNodes.length; i++) {
+                node = sfEls.childNodes[i];
+                if (node.nodeName == "UL") {
+                    _get = true;
+                }
+            }
+            if (!_get) {
+                setclass(sfEls, "");
+                setclass(sfEls.parentNode.parentNode, "");
+                var obj = sfEls.parentNode.parentNode.parentNode.parentNode;
+                if (obj.nodeName =="LI" && obj.nextSibling.nextSibling == null) {
+                    setclass(obj, "");  
+                } 
+            }
+        }
+    }
+    
+    function focus_left(sfEls) {
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onfocus = function() {
+                this.className += " left_hover";
+            }
+            sfEls[i].onblur = function() {
+                this.className = this.className.replace(" left_hover", "");
+            }
+        }
+    }
+
+    function placeOnTop(oCont) {
+        for (var i = 0; i < oCont.length; i++) {
+            var oIFR = document.getElementById('ifr' + oCont[i].id);
+            if (oIFR == null) {
+                var oIFR = document.createElement('iframe');
+                oIFR.id = 'ifr' + oCont[i].id;
+                oIFR.style.top = '0px';
+                oIFR.style.left = '0px';
+                oIFR.style.filter = "progid:DXImageTransform.Microsoft.Alpha(opacity=0)";
+                oIFR.scrolling = 'no';
+                oIFR.frameBorder = 'no';
+                oIFR.style.display = 'none';
+                oIFR.style.position = 'absolute';
+                oCont[i].parentNode.appendChild(oIFR);
+            }
+
+            oIFR.style.width = oCont[i].offsetWidth;
+            oIFR.style.height = oCont[i].offsetHeight;
+            oIFR.style.top = oCont[i].offsetTop + 'px';
+            oIFR.style.left = oCont[i].offsetLeft + 'px';
+            oIFR.style.zIndex = -1;
+
+        }
+    }
+
+    window.onload = function() {
+        startList();
+    }
+
+</script>
+
+<div id="wisemenu_v" class="jqueryslidemenu">
+<ul id="WiseMenuNav">
+<li id="WiseMenuNavParentItem93"><div class="news93"><a id="WiseMenuNavParentLink93" href="/Default.aspx?tabid=93" title="每日活動行程" >每日活動行程</a></div></li>
+</ul>
+
+</div>
+</td>
+
+                </tr>
+              </table></td>
+            </tr>
+          <tr>
+            <td align="right" ><table   border="0" cellpadding="0" cellspacing="0" summary="左側網頁內容 " class="leftcontent">
+              <tr>
+                <td id="dnn_leftmenu_content" align="center" valign="top"><a name="1878"></a><a name="2405"></a><span id="dnn_ctr2405_ContentPane" class="DNNAlignleft"><!-- Start_Module_2405 --><div id="dnn_ctr2405_ModuleContent">
+	<div id="dnn_ctr2405_HtmlModule_lblContent" class="Normal">
+		<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+        <tr>
+            <td valign="top" align="center" scope="col"><img width="194" height="45" border="0" alt="總統府也在這裡" name="Image5" src="/Portals/0/images/link/top.png" /></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" scope="col"><a onMouseOver="MM_swapImage('Image4','','portals/0/images/link/youtube_1.png',1)" onfocus="" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" target="_blank" href="http://www.youtube.com/presidentialoffice"><img width="194" height="40" border="0" alt="youtube(另開新視窗)" name="Image4" src="/Portals/0/images/link/youtube.png" /></a></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" scope="col"><a onMouseOver="MM_swapImage('Image3','','portals/0/images/link/flickr_1.png',1)" onfocus="" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" target="_blank" href="http://www.flickr.com/photos/presidentialoffice"><img width="194" height="40" border="0" alt="flickr(另開新視窗)" name="Image3" src="/Portals/0/images/link/flickr.png" /></a></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" scope="col"><img width="194" height="21" border="0" alt="*" name="Image5" src="/Portals/0/images/link/rk.png" /></td>
+        </tr>
+    </tbody>
+</table>
+
+	</div>
+<div id="dnn_ctr2405_HtmlModule_HtmlModule_lblContent" class="Normal">
+		<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+        <tr>
+            <td valign="top" align="center" scope="col"><img width="194" height="45" border="0" alt="總統府也在這裡" name="Image5" src="/Portals/0/images/link/top.png" /></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" scope="col"><a onMouseOver="MM_swapImage('Image4','','portals/0/images/link/youtube_1.png',1)" onfocus="" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" target="_blank" href="http://www.youtube.com/presidentialoffice"><img width="194" height="40" border="0" alt="youtube(另開新視窗)" name="Image4" src="/Portals/0/images/link/youtube.png" /></a></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" scope="col"><a onMouseOver="MM_swapImage('Image3','','portals/0/images/link/flickr_1.png',1)" onfocus="" onMouseOut="MM_swapImgRestore()" onBlur="MM_swapImgRestore()" target="_blank" href="http://www.flickr.com/photos/presidentialoffice"><img width="194" height="40" border="0" alt="flickr(另開新視窗)" name="Image3" src="/Portals/0/images/link/flickr.png" /></a></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" scope="col"><img width="194" height="21" border="0" alt="*" name="Image5" src="/Portals/0/images/link/rk.png" /></td>
+        </tr>
+    </tbody>
+</table>
+
+	</div>
+<!-- End_Module_2405 -->
+</div></span>
+</td>
+
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+        <td valign="top" class="center"  ><table width="100%" border="0" summary="網頁內容">
+          <tr>
+            <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                  <td colspan="3" class="indextopbg" ></td>
+                  </tr>
+                <tr>
+                  <td class="titledot" rowspan="2" valign="bottom"  scope="col" background="/Portals/0/Skins/newskin/titledot-line.jpg" ><img src="/Portals/0/Skins/newskin/titledot.jpg" alt="*" width="73" height="70" /></td>
+                  <td width="39%" colspan="2" valign="top" class="indexpathtop" scope="col" ><table  summary="路徑"   border="0" align="right" cellpadding="0" cellspacing="0" class="breadcrumbs1">
+                    <tr>
+                      <td><a title="主要內容區" class="blockwhite" accessKey="C" href="/Portals/0/Skins/newskin/Default.aspx?tabid=1131">:::</a></td>
+                      <td><a href="http://www.president.gov.tw/"><img src="/Portals/0/Skins/newskin/housedot.jpg" alt="首頁" width="13" height="13" hspace="5" border="0" /></a>                      <span id="dnn_dnnBREADCRUMB_lblBreadCrumb"><a href="/Default.aspx?tabid=60" class="Breadcrumb">新聞與活動</a> » <a href="/Default.aspx?tabid=93" class="Breadcrumb">每日活動行程</a></span>
+</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                <tr>
+                  <td valign="top" scope="col" class="indexpathbottom" ><img src="/Portals/0/Skins/newskin/images/law/new02.jpg" alt="每日活動行程" width="133" height="17" /></td>
+                  <td class="indexpathprint" width="8" valign="top" style="padding:10px 10px 0 0;" scope="col" ><a href="Print.aspx?tabid=93" target="_blank"><img border="0" src="/Portals/0/Skins/newskin/print.jpg" alt="友善列印" /></a></td>
+                </tr>
+              </table></td></tr>
+          <tr>
+            <td class="contentbox "><table  summary="排版表格"  width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td class="right" valign="top"><span id="PrintStart"/><table  summary="網頁內容"  class="content" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td id="dnn_contentpane" valign="top">
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<td valign="top" align="left"><img id="dnn_ctl03_imgIcon" src="/images/yellow-warning.gif" alt="*" style="border-width:0px;" /></td>
+		<td valign="middle" align="left"><span id="dnn_ctl03_lblHeading" class="Normal">頁面警告<br/></span><span id="dnn_ctl03_lblMessage" class="Normal">本頁面限制您目前的瀏覽作業，有相關問題請聯絡<a href="mailto:public_web@oop.gov.tw">網站管理員</a> 。</span></td>
+	</tr>
+</table>
+<hr noshade size="1"/><a name="448"></a>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><span id="dnn_ctr448_ContentPane" class="DNNAlignleft"><!-- Start_Module_448 --><div id="dnn_ctr448_ModuleContent">
+	
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table class="list-menu">
+                <tr>
+                    <td class="tdpadding">
+                        <table border="0">
+                            <tr>
+                                <td colspan="2">
+                                    <span style="font-size: 12pt; font-family: 新細明體; mso-bidi-font-family: 'Times New Roman';
+                                        mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW;
+                                        mso-bidi-language: AR-SA">․</span>查詢日期
+                                    <input name="dnn$ctr448$ViewWise_Schedules$txtStart" type="text" size="10" id="dnn_ctr448_ViewWise_Schedules_txtStart" />
+                                     
+                                    <a id="dnn_ctr448_ViewWise_Schedules_cmdCalendar1" href="javascript:popupCal('Cal','dnn_ctr448_ViewWise_Schedules_txtStart','yyyy/M/d','一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月','星期日,星期一,星期二,星期三,星期四,星期五,星期六','今天','關閉','日曆',0);"><img src="/DesktopModules/Wise_Schedules/ImagesA/calendar.gif" alt="日曆" style="border-width:0px;" /></a>
+                                    ~
+                                    <input name="dnn$ctr448$ViewWise_Schedules$txtEnd" type="text" size="10" id="dnn_ctr448_ViewWise_Schedules_txtEnd" />
+                                    <a id="dnn_ctr448_ViewWise_Schedules_cmdCalendar2" href="javascript:popupCal('Cal','dnn_ctr448_ViewWise_Schedules_txtEnd','yyyy/M/d','一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月','星期日,星期一,星期二,星期三,星期四,星期五,星期六','今天','關閉','日曆',0);"><img src="/DesktopModules/Wise_Schedules/ImagesA/calendar.gif" alt="日曆" style="border-width:0px;" /></a>
+                                    <span id="dnn_ctr448_ViewWise_Schedules_MessageLabel" style="color: Red; text-align: center;
+                                        vertical-align: middle"></span><p class="noscript">
+<noscript><font style="font-size:9pt;">當您的瀏覽器不支援JavaScript，請自行輸入YYYY/MM/DD日期格式。</font>
+</noscript></p>
+                                </td>
+                                <td>
+                                    <span style="font-size: 12pt; font-family: 新細明體; mso-bidi-font-family: 'Times New Roman';
+                                        mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW;
+                                        mso-bidi-language: AR-SA">․</span>對 &nbsp;象&nbsp; 別
+                                    <select name="dnn$ctr448$ViewWise_Schedules$ddlOwner" id="dnn_ctr448_ViewWise_Schedules_ddlOwner">
+		<option selected="selected" value="0">全部</option>
+		<option value="1">總統活動行程</option>
+		<option value="2">副總統活動行程</option>
+		<option value="3">總統府活動行程</option>
+
+	</select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="height: 27px">
+                                    <span style="font-size: 12pt; font-family: 新細明體; mso-bidi-font-family: 'Times New Roman';
+                                        mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW;
+                                        mso-bidi-language: AR-SA">․</span>關 &nbsp;鍵&nbsp; 字
+                                    <input name="dnn$ctr448$ViewWise_Schedules$txtSearch" type="text" size="10" id="dnn_ctr448_ViewWise_Schedules_txtSearch" style="width:150px;" />
+                                </td>
+                                <td style="height: 27px">
+                                    &nbsp;&nbsp;
+                                    <input type="submit" value="查詢" class="samefront_smallbutton" id="Submit1" />
+                                    <input type="reset" value="重設" class="samefront_smallbutton" />
+                                </td>
+                                <td style="height: 27px">
+                                    <span style="font-size: 12pt; font-family: 新細明體; mso-bidi-font-family: 'Times New Roman';
+                                        mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-TW;
+                                        mso-bidi-language: AR-SA">․</span>顯示天數
+                                    <input name="dnn$ctr448$ViewWise_Schedules$txtPageDays" type="text" value="7" size="10" id="dnn_ctr448_ViewWise_Schedules_txtPageDays" style="width:30px;" />
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table border="0" class="menu-bar">
+                <tr>
+                    <th width="25%">
+                        日期</td>
+                    <th width="75%" align="left" style="padding: 0 0 0 7px; text-align: left;">
+                        行程內容</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <table id="dnn_ctr448_ViewWise_Schedules_lstContent" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;">
+		<tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblDate1">101年10月05日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblcontent1" class="ContentString">09：00 主持贈勳典禮-曾永權前秘書長</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblcontent2" class="ContentString">10：00 接見全國私校十大傑出教師「弘道獎」當選人</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_tr_3">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblDate3"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_Panel2">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblOfficeOfPresident" class="OwnerString">總統府活動</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_lblContent3" class="ContentString">09:00～11:30 總統府開放參觀（入口報到處：博愛路、寶慶路口）</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl00_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr><tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblDate1">101年10月04日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblcontent1" class="ContentString">09：30 出席「青年日報社」60週年社慶活動<br />
+11：00 出席第1屆教育大愛「菁師獎」表揚大會<br />
+14：00 接見美國哈佛大學副教授John Ratey</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblcontent2" class="ContentString"><p>14：00出席「攜手同心 e起反毒」全國反毒聯合記者會</p></span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_tr_3">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblDate3"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_Panel2">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblOfficeOfPresident" class="OwnerString">總統府活動</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_lblContent3" class="ContentString">09:00～11:30 總統府開放參觀（入口報到處：博愛路、寶慶路口）</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl01_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr><tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblDate1">101年10月03日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblcontent1" class="ContentString"><p>14：20 出席「2012年國際口足畫藝世界特展」開幕式</p></span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblcontent2" class="ContentString"><p>18：55 出席「2012大陸台商秋節座談聯誼晚宴」</p></span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_tr_3">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblDate3"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_Panel2">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblOfficeOfPresident" class="OwnerString">總統府活動</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_lblContent3" class="ContentString">09:00～11:30 總統府開放參觀（入口報到處：博愛路、寶慶路口）</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl02_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr><tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblDate1">101年10月02日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblcontent1" class="ContentString">無公開行程</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblcontent2" class="ContentString"><p>15：15 出席「世界臺灣商會聯合總會」第18屆第3次理監事聯席會議閉幕典禮</p></span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_tr_3">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblDate3"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_Panel2">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblOfficeOfPresident" class="OwnerString">總統府活動</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_lblContent3" class="ContentString">09:00～11:30 總統府開放參觀（入口報到處：博愛路、寶慶路口）</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl03_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr><tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblDate1">101年10月01日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblcontent1" class="ContentString">09：00 出席「世界台灣商會聯合總會」第18屆年會暨第3次理監事聯席會議開幕典禮</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblcontent2" class="ContentString">15：15 出席「國際同濟會台灣總會」會長交接典禮<br />
+18：40 出席「北部工業區理事長聯誼會」會長交接典禮</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_tr_3">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblDate3"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_Panel2">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblOfficeOfPresident" class="OwnerString">總統府活動</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_lblContent3" class="ContentString">09:00～11:30 總統府開放參觀（入口報到處：博愛路、寶慶路口）</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl04_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr><tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_lblDate1">101年09月30日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_lblcontent1" class="ContentString">無公開行程</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_lblcontent2" class="ContentString">無公開行程</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl05_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr><tr>
+			<td>
+                    <table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin:10px 0 30px 0;">
+                        <tr valign="top" width="5%">
+                            <td>
+                                </td>
+                            <td>
+                                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_tr_1">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_lblDate1">101年09月29日</span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left" width="75%">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_Panel0">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_lblPresident" class="OwnerString">總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_lblcontent1" class="ContentString"><p>無公開行程</p></span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    <tr id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_tr_2">
+				<td width="25%" align="right" valign="top">
+                                            <span class="DateString">
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_lblDate2"></span>
+                                            </span>
+                                        </td>
+				<td class="DateStrin" valign="top" align="left">
+                                            <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_Panel1">
+					
+                                                <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_lblVicePresident" class="OwnerString">副總統活動行程</span>
+                                            
+				</div>
+                                            <span id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_lblcontent2" class="ContentString">10：00 出席「國泰五十 幸福再發現」歡慶茶會</span><p style=" visibility:hidden;"></p></td>
+			</tr>
+			
+                                    
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <div id="dnn_ctr448_ViewWise_Schedules_lstContent_ctl06_pnlHr">
+				
+                    
+			</div>
+                </td>
+		</tr>
+	</table><div id="dnn_ctr448_ViewWise_Schedules_PnlNoData">
+
+	</div></td>
+    </tr>
+    <tr>
+        <td valign="top" class="Datefooter">
+            <table width="664" border="0" align="center" cellpadding="0" cellspacing="0" summary="layout table">
+                <tr>
+                    <td>
+                        <table id="dnn_ctr448_ViewWise_Schedules_ppger" class="PagingTable" width="664px">
+		<tr>
+			<td width="15%" align="left" valign="middle" class="Normal">
+                                    
+                                    第
+                                    <span id="dnn_ctr448_ViewWise_Schedules_lblCurrentPage" style="font-family:Verdana;">47</span>
+                                    頁 共
+                                    <span id="dnn_ctr448_ViewWise_Schedules_lblTotalPage" style="font-family:Verdana;">175</span>
+                                    頁
+                                </td>
+			<td width="85%" align="right" valign="middle" class="Normal ">
+                                    <img src="/DesktopModules/Wise_Schedules/images/pre01.gif" id="dnn_ctr448_ViewWise_Schedules_IMG1" alt="*" />
+                                    <a id="dnn_ctr448_ViewWise_Schedules_linkFirst" href="/Default.aspx?tabid=93&amp;PageNo=1">第一頁</a>
+                                    <img src="/DesktopModules/Wise_Schedules/images/pre02.gif" id="dnn_ctr448_ViewWise_Schedules_IMG2" alt="*" />
+                                    <a id="dnn_ctr448_ViewWise_Schedules_linkPrevious" href="/Default.aspx?tabid=93&amp;PageNo=46">上一頁</a>
+                                    &nbsp; &nbsp;
+                                    &nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=37">37</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=38">38</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=39">39</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=40">40</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=41">41</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=42">42</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=43">43</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=44">44</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=45">45</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=46">46</a>&nbsp;<a>[47]</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=48">48</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=49">49</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=50">50</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=51">51</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=52">52</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=53">53</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=54">54</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=55">55</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=56">56</a>&nbsp;<a href="/Default.aspx?tabid=93&amp;PageNo=57">57</a>&nbsp;
+                                    &nbsp; &nbsp;
+                                    <a id="dnn_ctr448_ViewWise_Schedules_linkNext" href="/Default.aspx?tabid=93&amp;PageNo=48">下一頁</a>
+                                    <img src="/DesktopModules/Wise_Schedules/images/next02.gif" id="dnn_ctr448_ViewWise_Schedules_IMG3" alt="*" />&nbsp;
+                                    <a id="dnn_ctr448_ViewWise_Schedules_linkLast" href="/Default.aspx?tabid=93&amp;PageNo=175">最後一頁</a>
+                                    <img src="/DesktopModules/Wise_Schedules/images/next01.gif" id="dnn_ctr448_ViewWise_Schedules_IMG4" alt="*" /></td>
+		</tr>
+	</table>
+	
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<!-- End_Module_448 -->
+</div></span></td>
+  </tr>
+  
+</table>
+
+</td>
+
+                    </tr>
+                  </table><span id="PrintEnd"/></td>
+                </tr>
+              </table></td>
+            </tr>
+          <tr>
+            <td class="contentbottom"></td>
+          </tr>
+          </table></td>
+        <td width="4%" rowspan="3" valign="top" background="/Portals/0/Skins/newskin/bg_04.jpg" class="rightskinbg" scope="col" >&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="footer"><img src="/Portals/0/Skins/newskin/under_line.gif" width="1003" height="33" alt="*" /></td>
+
+  </tr>
+  <tr>
+    <td height="123" align="center" valign="top" class="footer"><a title="下方相關連結區" class="blockone" accesskey="B" href="Default.aspx?tabid=1131" >:::</a>
+      <table width="955" border="0" align="center" cellpadding="0" cellspacing="0" class="ftxt">
+        <tr>
+          <td width="460" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0"  class="topfont">
+              <tr>
+                <td align="left"><a href="http://www.president.gov.tw" title="點選後，會開啟首頁頁面">中華民國總統府</a> （<a href="/Default.aspx?tabid=1271" title="點選後，會開啟著作權聲明頁面">著作權聲明</a>）</td>
+              </tr>
+              <tr>
+                <td align="left">地址：10048 臺北市中正區重慶南路1段122號（<a href="/Default.aspx?tabid=177" title="點選後，會開啟交通位置頁面">交通位置</a>）</td>
+              </tr>
+              <tr>
+                <td align="left">總機：（02）2311-3731 <a href="/Default.aspx?tabid=1130" title="點選後，會開啟隱私權及資訊安全政策頁面">隱私權及資訊安全政策</a>｜<a href="/Default.aspx?tabid=1131" title="點選後，會開啟無障礙聲明頁面">無障礙聲明</a>｜<a title="點選後，會開啟聯絡我們頁面" href="/Default.aspx?tabid=222">聯絡我們</a></td>
+              </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="60%" class="fdata"><a class="accessibility"  href = "http://www.webguide.nat.gov.tw/enable.jsp?category=20100911133134" title = "無障礙網站"><img src = "portals/0/images/aplus.jpg" border = "0" width = "88" height = "31" alt = "通過A+優先等級無障礙網頁檢測" /></a>民國<span id="dnn_dnnWISEUPDATEDDATE_lblUpdatedDate">102年8月23日</span>
+</td>
+                      <td width="20%" align="left"></td>
+                      <td width="20%" align="left"></td>
+                    </tr>
+                </table></td>
+              </tr>
+          </table></td>
+          <td width="495" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0"  class="topfont">
+              <tr>
+                <td align="left"><a href="/Default.aspx?tabid=95" title="點選後，會開啟馬英九總統頁面">馬英九總統</a>｜<a href="/Default.aspx?tabid=1401" title="點選後，會開啟吳敦義副總統頁面">吳敦義副總統</a>｜<a href="/Default.aspx?tabid=240" title="點選後，會開啟總統札記頁面">總統札記</a>｜<a href="/Default.aspx?tabid=131" title="點選後，會開啟新聞稿頁面">新聞稿</a>｜<a href="/Default.aspx?tabid=93" title="點選後，會開啟每日活動行程頁面">每日活動行程</a>｜<a href="http://media.president.gov.tw/MediaTotalView.aspx" title="點選後，會開啟影音頻道頁面" target="_blank">影音頻道</a>｜<a href="http://media.president.gov.tw/ImageTotalView.aspx" title="點選後，會開啟網路相簿頁面" target="_blank">網路相簿</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="/Default.aspx?tabid=58" title="點選後，會開啟中華民國簡介頁面">中華民國簡介</a>｜<a href="/Default.aspx?tabid=164" title="點選後，會開啟總統府公報頁面">總統府公報</a>｜<a href="/Default.aspx?tabid=173" title="點選後，會開啟參觀資訊頁面">參觀資訊</a>｜<a href="/Default.aspx?tabid=234" title="點選後，會開啟總統府之美頁面">總統府之美</a>｜<a href="http://media.president.gov.tw/vr/index.html" title="點選後，會另開新視窗至虛擬導覽頁面" target="_blank">虛擬導覽</a>｜<a href="/Default.aspx?tabid=134" title="點選後，會開啟重要活動頁面">重要活動</a>｜<a href="/Default.aspx?tabid=159" title="點選後，會開啟特別專輯頁面">特別專輯</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="/Default.aspx?tabid=167" title="點選後，會開啟陽光法案頁面">陽光法案</a>｜<a href="/Default.aspx?tabid=169" title="點選後，會開啟便民服務頁面">便民服務</a>｜<a href="/Default.aspx?tabid=166" title="點選後，會開啟政府資訊公開頁面">政府資訊公開</a>｜<a href="/Default.aspx?tabid=218" title="點選後，會開啟相關網站頁面">相關網站</a>｜<a href="/Default.aspx?tabid=219" title="點選後，會開啟雙語詞彙頁面">雙語詞彙</a>｜<a href="/Default.aspx?tabid=221" title="點選後，會開啟國是論壇頁面">國是論壇</a>｜<a href="/Default.aspx?tabid=222" title="點選後，會開啟民意信箱頁面">民意信箱</a></td>
+              </tr>
+          </table></td>
+        </tr>
+      </table></td>
+
+  </tr>
+  </table>
+</div>
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" />
+    </form>
+
+    <!-- Piwik -->
+<script type='text/javascript'> 
+var pkBaseURL = (('https:' == document.location.protocol) ? 'https://117.56.6.3/piwik/' : 'http://117.56.6.3/piwik/'); 
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type='text/javascript'> 
+try { 
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1); 
+piwikTracker.trackPageView(); 
+piwikTracker.enableLinkTracking(); 
+} catch( err ) {} 
+</script><noscript><p><img src='http://117.56.6.3/piwik/piwik.php?idsite=1' style='border:0' alt='*'/></p></noscript> 
+<!-- End Piwik Tag -->
+
+</body>
+</html>
