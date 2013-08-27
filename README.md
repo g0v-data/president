@@ -11,7 +11,7 @@ president_schedules
 
 type:
 
-  * json
+  * json: president.json (include president-office, vice-president)
 
   * ics: president.ics, president-office.ics, vice-president.ics
 
