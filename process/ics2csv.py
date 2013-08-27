@@ -13,7 +13,10 @@ from pprint import pprint
 
 def ics2csv(input_file, output_folder):
     LOG = logging.getLogger(__name__)
-    LOG.info('Convert from iCal (.ics) file %s to %s folder.', input_file, output_folder)
+
+    name = os.path.split(os.path.splitext(input_file)[0])[1]
+    path = os.path.join(output_folder, '%s.csv' % name)
+    LOG.info('Convert from iCal (.ics) file %s to CSV file %s.', input_file, path)
 
     try:
         # Load events from ics input
@@ -36,9 +39,6 @@ def ics2csv(input_file, output_folder):
 #       pprint(events[1])
 
         # Save events to csv output
-        name = os.path.split(os.path.splitext(input_file)[0])[1]
-        path = os.path.join(output_folder, '%s.csv' % name)
-        LOG.debug('output file: %s', path)
         with open(path, 'wb') as dst:
             csvw = csv.writer(dst, quoting=csv.QUOTE_ALL)
             for event in events:
