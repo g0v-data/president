@@ -5,6 +5,8 @@ import json
 import httplib2
 from lxml import html
 
+version_2k = sys.version_info[0] == 2
+version_3k = sys.version_info[0] == 3
 
 SCHEDULES_URL = "http://www.president.gov.tw/Default.aspx?tabid=93&PageNo={page_no}"
 SCHEDULES_TITLE = ["", u"總統活動行程", u"副總統活動行程", u"總統府行程"]
@@ -127,8 +129,12 @@ def to_json(d):
 
 
 if __name__ == '__main__':
-    update_schedules('president.json', 'president.json')
-    
+    if version_3k:
+    	update_schedules('president.json', 'president.json')
+    else:
+        print("Please use py3k......")
+
+
     """    
     result = {}
     for page in range(1, 176):
