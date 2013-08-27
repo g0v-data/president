@@ -135,7 +135,7 @@ if __name__ == '__main__':
         
     env = os.environ.copy()
     env['GIT_DIR'] = os.getcwd()
-    sha1 = str(subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'president.json'])).strip("\n")
+    sha1 = subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'president.json']).decode('utf-8').strip("\n")
 
     if version_3k:
     	update_schedules('president.json', 'president.json')
