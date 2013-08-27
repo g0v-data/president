@@ -34,13 +34,13 @@ if __name__ == '__main__':
     sha1_vp_ics = subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'vice-president.ics']).decode('utf-8').strip("\n")
 
     os.system("git add president.json")
-    os.system("git commit -m 'autocommit with parse.py %s'" % (sha1_json))
+    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_json))
     os.system("git add president.ics")
-    os.system("git commit -m 'autocommit with parse.py %s'" % (sha1_p_ics))
+    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_p_ics))
     os.system("git add president-office.ics")
-    os.system("git commit -m 'autocommit with parse.py %s'" % (sha1_po_ics))
+    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_po_ics))
     os.system("git add vice-president.ics")
-    os.system("git commit -m 'autocommit with parse.py %s'" % (sha1_vp_ics))
+    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_vp_ics))
     
     os.system("git pull")
     os.system("git push")
