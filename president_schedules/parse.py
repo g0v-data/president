@@ -143,7 +143,7 @@ if __name__ == '__main__':
         print("Please use py3k......")
 
     os.system("git add president.json")
-    os.system("git commit -m 'autocommit with parse.py %s" % (sha1))
+    os.system("git commit -m 'autocommit with parse.py %s'" % (sha1))
     os.system("git pull")
     os.system("git push")
 
