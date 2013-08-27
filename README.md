@@ -15,4 +15,6 @@ type:
 
   * ics: president.ics, president-office.ics, vice-president.ics
 
+  * csv: president.csv, president-office.csv, vice-president.csv
+
 於每日15點自動更新
