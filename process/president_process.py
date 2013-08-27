@@ -12,7 +12,7 @@ def commit(file_list):
     for f in file_list:
         sha1 = subprocess.check_output(['git', 'log', '-1', '--format="%H"', f]).decode('utf-8').strip("\n")
         os.system("git add %s" % f)
-        os.system("git commit -m 'autocommit with president_process.py %s'" % f)
+        os.system("git commit -m 'autocommit with president_process.py %s'" % sha1)
 
 
 if __name__ == '__main__':
@@ -34,9 +34,8 @@ if __name__ == '__main__':
     os.system("python2 json2ics.py {0}/president.json {0}".format(env['PRESIDENT_OUTPUT_DIR']))
     
     # to csv
-    map(lambda x: os.system("python2 ics2csv.py {0}/{1} {0}".format(env['PRESIDENT_OUTPUT_DIR'], x)),
-        ['president.ics', 'president-office.ics', 'vice-president.icsv']) 
-   
+    for f in ['president.ics', 'president-office.ics', 'vice-president.ics']:
+        os.system("python2 ics2csv.py {0}/{1} {0}".format(env['PRESIDENT_OUTPUT_DIR'], f))
 
     # git update
     os.chdir(env['PRESIDENT_OUTPUT_DIR'])
