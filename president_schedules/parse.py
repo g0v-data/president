@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
+import os
 import sys
+import subprocess
 import json
 import httplib2
 from lxml import html
@@ -129,13 +131,23 @@ def to_json(d):
 
 
 if __name__ == '__main__':
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
+        
+    env = os.environ.copy()
+    env['GIT_DIR'] = os.getcwd()
+    sha1 = str(subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'president.json'])).strip("\n")
+
     if version_3k:
     	update_schedules('president.json', 'president.json')
     else:
         print("Please use py3k......")
 
+    os.system("git add president.json")
+    os.system("git commit -m 'autocommit with parse.py %s" % (sha1))
+    os.system("git pull")
+    os.system("git push")
 
-    """    
+    """
     result = {}
     for page in range(1, 176):
         print(page)
