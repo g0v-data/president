@@ -13,7 +13,7 @@ from icalendar import Calendar, Event
 from optparse import OptionParser
 from pprint import pprint
 
-def json2ics(input_file, output_folder, verbose=False):
+def json2ics(input_file, output_folder):
     LOG = logging.getLogger(__name__)
     LOG.info('Convert from JSON file %s to %s folder.', input_file, output_folder)
 
@@ -128,5 +128,5 @@ if __name__ == '__main__':
         LOG = logging.getLogger(__name__)
         LOG.setLevel({ 1: logging.INFO, 2: logging.DEBUG}[opts.verbose])
 
-    json2ics(opts.input_file, opts.output_folder, verbose=opts.verbose)
+    json2ics(opts.input_file, opts.output_folder)
 
