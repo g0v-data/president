@@ -15,4 +15,4 @@ type:
 
   * ics: president.ics, president-office.ics, vice-president.ics
 
-於每日3點自動更新
+於每日15點自動更新
