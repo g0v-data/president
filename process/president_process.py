@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 
+import os
+import sys
+import subprocess
 import parse
+
+version_3k = sys.version_info[0] == 3
+version_2k = sys.version_info[0] == 2
 
 if __name__ == '__main__':
     process_path = os.path.dirname(os.path.realpath(__file__))
