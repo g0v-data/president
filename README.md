@@ -13,6 +13,8 @@ type:
 
   * json: president.json (include president-office, vice-president)
 
-  * ics: president.ics, president-office.ics, vice-president.ics
+  * iCal: president.ics, president-office.ics, vice-president.ics
+
+  * csv: president.csv, president-office.csv, vice-president.csv
 
 於每日15點自動更新

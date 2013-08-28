@@ -8,6 +8,13 @@ import parse
 version_3k = sys.version_info[0] == 3
 version_2k = sys.version_info[0] == 2
 
+def commit(file_list):
+    for f in file_list:
+        sha1 = subprocess.check_output(['git', 'log', '-1', '--format="%H"', f]).decode('utf-8').strip("\n")
+        os.system("git add %s" % f)
+        os.system("git commit -m 'autocommit with president_process.py %s'" % sha1)
+
+
 if __name__ == '__main__':
     process_path = os.path.dirname(os.path.realpath(__file__))
 
@@ -26,21 +33,14 @@ if __name__ == '__main__':
     os.chdir(process_path)
     os.system("python2 json2ics.py {0}/president.json {0}".format(env['PRESIDENT_OUTPUT_DIR']))
     
+    # to csv
+    for f in ['president.ics', 'president-office.ics', 'vice-president.ics']:
+        os.system("python2 ics2csv.py {0}/{1} {0}".format(env['PRESIDENT_OUTPUT_DIR'], f))
+
     # git update
     os.chdir(env['PRESIDENT_OUTPUT_DIR'])
-    sha1_json = subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'president.json']).decode('utf-8').strip("\n")
-    sha1_p_ics = subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'president.ics']).decode('utf-8').strip("\n")
-    sha1_po_ics = subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'president-office.ics']).decode('utf-8').strip("\n")
-    sha1_vp_ics = subprocess.check_output(['git', 'log', '-1', '--format="%H"', 'vice-president.ics']).decode('utf-8').strip("\n")
-
-    os.system("git add president.json")
-    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_json))
-    os.system("git add president.ics")
-    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_p_ics))
-    os.system("git add president-office.ics")
-    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_po_ics))
-    os.system("git add vice-president.ics")
-    os.system("git commit -m 'autocommit with president_process.py %s'" % (sha1_vp_ics))
-    
-    os.system("git pull")
-    os.system("git push")
+    commit(['president.json', 'president.ics', 'president.csv', 'president-office.ics', 'president-office.csv',
+            'vice-president.ics', 'vice-president.csv'])
+  
+    os.system('git pull')
+    os.system('git push')
