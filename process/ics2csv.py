@@ -38,6 +38,9 @@ def ics2csv(input_file, output_folder):
 #       pprint(events[0])
 #       pprint(events[1])
 
+        dtstart_index = Event.canonical_order.index('DTSTART')
+        events.sort(reverse=True, key=lambda x: x[dtstart_index])
+
         # Save events to csv output
         with open(path, 'wb') as dst:
             csvw = csv.writer(dst, quoting=csv.QUOTE_ALL)
