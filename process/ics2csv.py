@@ -6,7 +6,7 @@ import sys
 import logging
 import datetime
 import csv
-import uniout
+#import uniout
 from icalendar import Calendar, Event
 from optparse import OptionParser
 from pprint import pprint
