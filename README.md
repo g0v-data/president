@@ -17,4 +17,4 @@ type:
 
   * csv: president.csv, president-office.csv, vice-president.csv
 
-於每日15點自動更新
+於每小時5分自動更新
