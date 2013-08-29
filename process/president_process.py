@@ -3,6 +3,7 @@
 import os
 import sys
 import subprocess
+import httplib2
 import parse
 
 version_3k = sys.version_info[0] == 3
@@ -14,12 +15,29 @@ def commit(file_list):
         os.system("git add %s" % f)
         os.system("git commit -m 'autocommit with president_process.py %s'" % sha1)
 
+def check_web():
+    h = httplib2.Http("")
+    resp, cont = h.request("http://www.president.gov.tw/Default.aspx?tabid=93")
+    
+    if cont == open("schedules_backup", "rb").read():
+        return 1
+    else:
+        open("schedules_backup", "wb").write(cont)
+        return 0
 
 if __name__ == '__main__':
     process_path = os.path.dirname(os.path.realpath(__file__))
 
     env = os.environ.copy()
     env['GIT_DIR'] = env['PRESIDENT_OUTPUT_DIR']
+
+    if not env['PRESIDENT_OUTPUT_DIR']:
+        print("out......")
+        exit()
+   
+    if check_web():
+        print("no change for web......")
+        exit()
 
     # to json
     os.chdir(env['PRESIDENT_OUTPUT_DIR'])

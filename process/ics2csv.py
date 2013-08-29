@@ -11,7 +11,7 @@ from icalendar import Calendar, Event
 from optparse import OptionParser
 from pprint import pprint
 
-def ics2csv(input_file, output_folder):
+def ics2csv_raw(input_file, output_folder):
     LOG = logging.getLogger(__name__)
 
     name = os.path.split(os.path.splitext(input_file)[0])[1]
@@ -22,6 +22,7 @@ def ics2csv(input_file, output_folder):
         # Load events from ics input
         events = []
         events.append(Event.canonical_order)
+        pprint(events[0])
         with open(input_file, "rb") as src:
             ical = Calendar.from_ical(src.read())
             for component in ical.walk('VEVENT'):
@@ -35,8 +36,52 @@ def ics2csv(input_file, output_folder):
                         cell = cell.isoformat()
                     event.append(cell)
                 events.append(event)
-#       pprint(events[0])
-#       pprint(events[1])
+#        pprint(events[0])
+#        pprint(events[1])
+
+        # Save events to csv output
+        with open(path, 'wb') as dst:
+            csvw = csv.writer(dst, quoting=csv.QUOTE_ALL)
+            for event in events:
+#               pprint(event)
+                csvw.writerow(event)
+
+    except IOError as e:
+        LOG.exception(e, 'Encounter IOError')
+
+
+def ics2csv(input_file, output_folder):
+    LOG = logging.getLogger(__name__)
+
+    name = os.path.split(os.path.splitext(input_file)[0])[1]
+    path = os.path.join(output_folder, '%s.csv' % name)
+    LOG.info('Convert from iCal (.ics) file %s to CSV file %s.', input_file, path)
+
+    try:
+        # Load events from ics input
+        events = []
+        evt = list(Event.canonical_order)
+        pe = evt.pop(0)
+        evt.insert(4, pe)
+        events.append(evt)
+        pprint(events[0])
+        with open(input_file, "rb") as src:
+            ical = Calendar.from_ical(src.read())
+            for component in ical.walk('VEVENT'):
+#               LOG.debug(component.name)
+                event = []
+                for k in Event.canonical_order:
+                    cell = ''
+                    if component.has_key(k):
+                        cell = component.decoded(k)
+                    if isinstance(cell, datetime.datetime):
+                        cell = cell.isoformat()
+                    event.append(cell)
+                pe = event.pop(0)
+                event.insert(4, pe)
+                events.append(event)
+#        pprint(events[0])
+#        pprint(events[1])
 
         dtstart_index = Event.canonical_order.index('DTSTART')
         events.sort(reverse=True, key=lambda x: x[dtstart_index])

@@ -124,11 +124,25 @@ def update_schedules(json_path, output_path):
         d[date] = get_day_schedules(1, i)
         
     open(output_path, "w").write(to_json(d))
-            
+
+def init_json():
+    result = {}
+    for page in range(1, 176):
+        print(page)
+        for row in range(7):
+            try:
+                date = get_schedules(page, 1, row)['date']
+            except:
+                continue
+
+            result[date] = get_day_schedules(page, row)
+
+    f = to_json(result)
+    open("president.json", "w").write(f)
+
 
 def to_json(d):
     return json.dumps(d, ensure_ascii=False, sort_keys=True, indent=4)
-
 
 if __name__ == '__main__':
     env = os.environ.copy()
@@ -142,20 +156,3 @@ if __name__ == '__main__':
         print("Please use 3k...")
         exit()
 
-
-    """
-    result = {}
-    for page in range(1, 176):
-        print(page)
-        for row in range(7):
-            try:
-                date = get_schedules(page, 1, row)['date']
-            except:
-                continue
-            
-            result[date] = get_day_schedules(page, row)
-        
-    f = to_json(result)
-    open("president_.json", "w").write(f)
-    """
-    
