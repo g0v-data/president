@@ -3,6 +3,7 @@
 import os
 import sys
 import subprocess
+import time
 import httplib2
 import parse
 
@@ -25,6 +26,10 @@ def check_web():
         open("schedules_backup", "wb").write(cont)
         return 0
 
+def log(msg):
+    open("log", "a").write("%s %s\n" % (time.ctime(), msg))
+
+
 if __name__ == '__main__':
     process_path = os.path.dirname(os.path.realpath(__file__))
 
@@ -34,11 +39,14 @@ if __name__ == '__main__':
     if not env['PRESIDENT_OUTPUT_DIR']:
         print("out......")
         exit()
-   
-    if check_web():
-        print("no change for web......")
-        exit()
 
+    os.chdir(process_path)
+    if check_web():
+        log("web isn't change")
+        exit()
+    else:
+        log("update...")
+ 
     # to json
     os.chdir(env['PRESIDENT_OUTPUT_DIR'])
     if version_3k:
