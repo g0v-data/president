@@ -18,3 +18,13 @@ type:
   * csv: president.csv, president-office.csv, vice-president.csv
 
 於每小時5分自動更新
+
+
+Presidential Office Gazette
+====
+
+總統府公報 
+
+type:
+
+  * json
