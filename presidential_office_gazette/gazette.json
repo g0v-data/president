@@ -74102,5 +74102,29 @@
         "link_pdf": "", 
         "publish_date": "37年05月20日", 
         "title": "中華民國總統府組織法定自民國三十七年五月二十日起施行"
+    }, 
+    {
+        "issue": "7103", 
+        "link": "http://www.president.gov.tw/Default.aspx?tabid=84&lctl=view&itemid=10029&ctid=97&q=", 
+        "link_doc": "http://www.president.gov.tw/Portals/0/Bulletins/paper/word/7103.doc", 
+        "link_pdf": "http://www.president.gov.tw/Portals/0/Bulletins/paper/pdf/7103.pdf", 
+        "publish_date": "102年09月04日", 
+        "title": "任免官員"
+    }, 
+    {
+        "issue": "7103", 
+        "link": "http://www.president.gov.tw/Default.aspx?tabid=84&lctl=view&itemid=10030&ctid=104&q=", 
+        "link_doc": "http://www.president.gov.tw/Portals/0/Bulletins/paper/word/7103.doc", 
+        "link_pdf": "http://www.president.gov.tw/Portals/0/Bulletins/paper/pdf/7103.pdf", 
+        "publish_date": "102年09月04日", 
+        "title": "總統活動紀要"
+    }, 
+    {
+        "issue": "7103", 
+        "link": "http://www.president.gov.tw/Default.aspx?tabid=84&lctl=view&itemid=10031&ctid=104&q=", 
+        "link_doc": "http://www.president.gov.tw/Portals/0/Bulletins/paper/word/7103.doc", 
+        "link_pdf": "http://www.president.gov.tw/Portals/0/Bulletins/paper/pdf/7103.pdf", 
+        "publish_date": "102年09月04日", 
+        "title": "副總統活動紀要"
     }
 ]
